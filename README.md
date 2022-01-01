@@ -5,7 +5,7 @@
   <source src="rain.mp4" type="video/mp4">
  
 </video>
-
+<img src="https://github.com/Satya12325/REact-Simple-routing-1-Page/blob/master/screencapture-localhost-3000-Users-2022-01-01-20_11_00.png"/>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
