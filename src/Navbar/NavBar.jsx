@@ -39,15 +39,16 @@ export default function ButtonAppBar() {
          
           <Link to="/about-us">About</Link>
           <Link to="/Contact">Contact</Link>
-         
+         <Link to="/Users">Users</Link>
           <Link to="/Service">Service</Link>
+
           </div>
           </Typography>
           <Link to="/Login">
           <Button color="inherit">Login</Button>
           </Link>
         </Toolbar>
-      </AppBar>
+      </AppBar>      
     </div>
   );
 }
